@@ -1,5 +1,6 @@
 # Square root operation 
 Input: bfloat16
+
 Output: bfloat16
 
 bfloat16_sqrt_input.txt is the truth table for every possible input value of a bfloat16 number (16-bits), and the corresponding output bfloat16 number (16-bits).
